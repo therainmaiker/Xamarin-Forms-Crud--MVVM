@@ -1,0 +1,14 @@
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\bin\Debug\netstandard2.0\Xamarin forms khawi.deps.json
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\bin\Debug\netstandard2.0\Xamarin forms khawi.dll
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\bin\Debug\netstandard2.0\ref\Xamarin forms khawi.dll
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\bin\Debug\netstandard2.0\Xamarin forms khawi.pdb
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.csproj.AssemblyReference.cache
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.dll
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\ref\Xamarin forms khawi.dll
+C:\Users\Youcode\source\repos\Xamarin forms khawi\Xamarin forms khawi\Xamarin forms khawi\obj\Debug\netstandard2.0\Xamarin forms khawi.pdb
